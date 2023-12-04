@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Post</string>
+    <string name="back_button">Back</string>
+    <string name="delete">Delete</string>
+    <string name="delete_title">Are you sure?</string>
+    <string name="delete_question">Are you sure you want to delete the post?</string>
+    <string name="no_item_description">Oops!\nNo Post.\nTap + to add.</string>
+    <string name="edit_post">Edit Post</string>
+    <string name="item">Item</string>
+    <string name="view_post">View Post</string>
+    <string name="add_post">Create Post</string>
+    <string name="post_descr">Description</string>
+    <string name="no">No</string>
+    <string name="author">Author</string>
+    <string name="submit_action">Submit</string>
+    <string name="yes">Yes</string>
+    <string name="required_fields">*required fields</string>
+    <string name="date">Date</string>
+    <string name="edit">Edit</string>
+    <string name="cancel">Cancel</string>
+    <string name="post_title">Post Title</string>
+    <string name="post_description">Post Description</string>
+    <string name="post_author">Author</string>
+    <string name="all_post">All Post</string>
+    <string name="read_more">READ MORE</string>
+    <string name="update_changes">Update Change</string>
+</resources>
